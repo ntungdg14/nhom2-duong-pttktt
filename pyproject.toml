@@ -1,0 +1,5 @@
+[project]
+name = "nhom2-duong-tv4-source-bundle"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = []
