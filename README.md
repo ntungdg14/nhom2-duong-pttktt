@@ -39,16 +39,3 @@ cmake -B build && cmake --build build && ctest --test-dir build -V
 python scripts/energy_compare.py
 # -> results/energy.csv
 ```
-
-## Lich trinh TV4 (theo bang ke hoach 7 tuan)
-
-| ID | Task | Bắt đầu | Hạn chót | Trạng thái |
-|----|------|---------|---------|-----------|
-| 1.07 | Ôn kỹ thuật tối ưu DP + bài mẫu | 06/10 | 11/10 | OK |
-| 2.04 | Brute force N≤12 + prototype Python | 12/10 | 16/10 | OK |
-| 2.05 | Unit test đợt 1 (Catch2, 1000 test) | 15/10 | 18/10 | OK |
-| 3.05 | Pseudo-code D&C & CHT | 21/10 | 24/10 | OK |
-| 4.01 | Cài D&C Optimization | 26/10 | 30/10 | OK |
-| 5.04 | So sánh năng lượng với 4 heuristic | 04/11 | 08/11 | OK |
-| 6.06 | Thiết lập CI GitHub Actions | 09/11 | 13/11 | OK |
-| 7.02 | Hoàn thiện unit test biên + coverage | 16/11 | 19/11 | OK |
